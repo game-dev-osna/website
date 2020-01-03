@@ -6,7 +6,7 @@
 
 Der Global Game Jam ist das weltweit größte parallel stattfindende GameJam-Event, das an verschiedenen Orten der Welt ausgetragen wird.
 
-Offizielle Infos unter: https://globalgamejam.org/faq
+Offizielle Infos unter: [Global Game Jam FAQ](https://globalgamejam.org/faq)
 
 ## Was wir euch bieten
 
@@ -38,7 +38,7 @@ Um den Global Game Jam in Osnabrück zu veranstalten haben wir die E-Sports-Fact
 ## So kannst du dich anmelden:
 
 - Auf globalgamejam.org einen Account anlegen
-- Unserer GameJam-Site joinen: https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020
+- Unserer GameJam-Site joinen: [Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020)
 - Du bekommst eine Bestätigungs-Email, wenn deine Registrierung akzeptiert wurde
 - Aufgrund der begrenzten Teilnehmerzahl ist eine bestätigte Anmeldung notwendig
 
