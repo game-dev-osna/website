@@ -2,13 +2,17 @@
 
 ![Global Game Jam 2020](./img/ggj2020_logo.jpg "Global Game Jam 2020")
 
-## Welcome to GitHub Pages
+## Was ist der Global Game Jam?
 
-You can use the [editor on GitHub](https://github.com/game-dev-osna/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Der Global Game Jam ist das weltweit größte parallel stattfindende GameJam-Event, das an verschiedenen Orten der Welt ausgetragen wird.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Was wir euch bieten
 
-### Markdown
+
+## So kannst du dich anmelden:
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -36,6 +40,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/game-dev-osna/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Kontakt
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Schreibe uns gerne eine Mail an game.dev.osna@gmail.com
