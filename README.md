@@ -28,6 +28,7 @@ Um den Global Game Jam in Osnabrück zu veranstalten haben wir die E-Sports-Fact
 
 - Begeisterung für die Spieleentwicklung
 - Eigener Laptop (am besten mit vorbereiteter Entwicklungsumgebung)
+- Alternativ können die 10 Gaming-PCs genutzt werden
 - Alle Fähigkeiten sind willkommen
   - 2D/3D Grafik
   - Sound/Musik
