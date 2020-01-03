@@ -1,3 +1,7 @@
+## Global Game Jam in Osnabrück, Germany | 31.01.2020 - 02.02.2020
+
+![Global Game Jam 2020](./img/ggj2020_logo.jpg "Global Game Jam 2020")
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/game-dev-osna/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
