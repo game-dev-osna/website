@@ -57,10 +57,9 @@ Eure Organisatoren,\
 - Unserer GameJam-Site joinen: [Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020)
 - Du bekommst von uns eine Bestätigungs-Email, wenn deine Registrierung akzeptiert wurde
 - Aufgrund der begrenzten Teilnehmerzahl ist eine bestätigte Anmeldung notwendig
-- Bitte schreibt uns eben eine Mail an game.dev.osna@gmail.com wenn ihr in der Location übernachten wollt
+- Bitte schreibt uns eben eine Mail an [game.dev.osna@gmail.com](mailto:game.dev.osna@gmail.com) wenn ihr in der Location übernachten wollt
 
 Um die Kosten für die Location und Getränke auszugleichen nehmen wir eine Teilnahmegebühr von 15€ für Studenten und 40€ für alle anderen.
-(#anmeldungs-hinweise)
 
 # Anfahrt und Location
 
@@ -73,7 +72,7 @@ Bus 91/92/392 bis Osnabrück Gretescher Turm oder M1 nach Osnabrück Düstrup ( 
 
 ## Kontakt
 
-Schreibe uns gerne eine Mail an game.dev.osna@gmail.com
+Schreibe uns gerne eine Mail an [game.dev.osna@gmail.com](mailto:game.dev.osna@gmail.com)
 
 ## Sponsoren und Partner
 
