@@ -2,11 +2,3 @@
 theme: minima
 title: GameDev OS
 description: Game jams hosted in Osnabrueck, Germany.
-mapping:
-	provider: google_js
-	zoom: 10
-	dimensions:
-	width: 600
-	height: 400
-	latitude: 51.101
-	longitude: 0.1
