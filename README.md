@@ -2,7 +2,7 @@
 
 ![Global Game Jam 2020](./img/ggj2020_logo.jpg "Global Game Jam 2020")
 
-[Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020)
+**Anmeldung** auf: [Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020) - bitte [Anmeldungs-Hinweise](#anmeldungs-hinweise) beachten
 
 ## Was ist der Global Game Jam
 
@@ -50,7 +50,7 @@ Eure Organisatoren,
   - GameDesign
   - Programmierung
 
-# Anmeldung
+# Anmeldung (#anmeldungs-hinweise)
 
 - Auf globalgamejam.org einen Account anlegen
 - Unserer GameJam-Site joinen: [Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020)
@@ -62,9 +62,9 @@ Um die Kosten für die Location und Getränke auszugleichen nehmen wir eine Teil
 
 # Anfahrt und Location
 
-Esport Factory
-Sandforter Straße 65
-49086 Osnabrück
+Esport Factory\
+Sandforter Straße 65\
+49086 Osnabrück\
 [Google Maps](https://goo.gl/maps/xQfBggi4Ut9rFg6S7)
 
 Bus 91/92/392 bis Osnabrück Gretescher Turm oder M1 nach Osnabrück Düstrup ( je ca. 15 Min vom Neumarkt)
@@ -72,3 +72,19 @@ Bus 91/92/392 bis Osnabrück Gretescher Turm oder M1 nach Osnabrück Düstrup ( 
 ## Kontakt
 
 Schreibe uns gerne eine Mail an game.dev.osna@gmail.com
+
+## Sponsoren und Partner
+
+
+
+## Impressum
+
+Third Level GmbH\
+Albert-Einstein-Str. 1\
+49076 Osnabrück / Germany\
+Geschäftsführer: Erik Wittkorn\
+Amtsgericht Osnabrück: HRB 211233\
+Sitz der Gesellschaft: Bohmte\
+
+Inhaltlich Verantwortlicher gemäß § 55 II RStV:\
+Erik Wittkorn
