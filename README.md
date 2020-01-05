@@ -41,7 +41,7 @@ Aufgrund unserer Erfahrung werden wir unser Bestes geben das Event zu strukturie
 Wir danken für das Sponsoring der Third Level GmbH und unserem Partner nordmedia/APITs Lab.
 
 Eure Organisatoren,<br />
-*Erik [Twitter](https://twitter.com/fastpath), Fabian, Niels, Tilman*
+*Erik [Twitter](https://twitter.com/fastpath), Fabian [GitHub](https://github.com/fabianschl), Niels, Tilman* 
 
 ## Folgende Annehmlichkeiten stehen euch für das Wochenende zur Vefügung
 
