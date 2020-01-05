@@ -24,7 +24,7 @@ Aufgrund unserer Erfahrung werden wir unser Bestes geben das Mentoring und Hilfe
 
 Wir danken für das Sponsoring der Third Level GmbH und unserem Partner nordmedia/APITs Lab.
 
-Eure Organisatoren,
+Eure Organisatoren,\
 *Erik, Fabian, Niels, Tilman*
 
 ## Folgende Annehmlichkeiten stehen euch für das Wochenende zur Vefügung
@@ -75,7 +75,7 @@ Schreibe uns gerne eine Mail an game.dev.osna@gmail.com
 
 ## Sponsoren und Partner
 
-
+![Third Level](./img/Third_Level_Logo.png "Third Level") ![APITsLab](./img/apits_lab.jpg "APITsLab")
 
 ## Impressum
 
