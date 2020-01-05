@@ -4,7 +4,7 @@
 
 **Anmeldung** auf: [Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020) - bitte [Anmeldungs-Hinweise](#anmeldung) beachten
 
-Nimm gerne
+Nimm gerne auch an unserer Facebook-Veranstaltung teil.
 
 ## Was ist der Global Game Jam
 
@@ -21,7 +21,7 @@ Offizielle Infos unter: [Global Game Jam FAQ](https://globalgamejam.org/faq)
 - Samstag vormittag - Einrichtung einer Projekt-Seite
 - Samstag nachmittag - Playtesting der anderen games
 
-- Sonntag vormittag - Polishing
+- Sonntag vormittag - Polishing 💫
 - Sonntag nachmittag - Hochladen der Projekte, Präsentation, Aufräumen
 
 Da wir den Ablaufplan aktuell noch entwickeln, guck ab und zu auf dieser Seite nach Updates, oder achte auf eine Mail von uns, wenn du schon registriert bist.
@@ -51,7 +51,7 @@ Eure Organisatoren,<br />
 - Große Video-Walls und Präsentations-Bildschirme
 - Große Küche mit Kühlschrank, Mikrowelle, Backöfen
 - BBQ-Terrasse fürs winterliche Grillen
-- Soft-Drinks und Kaffe sind für alle inklusive
+- Soft-Drinks und Kaffe sind für alle inklusive ☕️🥤
 - Toiletten und ein paar Schlafplätze für eigene Iso-Matte
 
 ## Was ihr mitbringt
