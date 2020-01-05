@@ -49,6 +49,7 @@ Eure Organisatoren,\
   - Storywriting
   - GameDesign
   - Programmierung
+- Du akzeptierst die offiziellen Bedingungen [Jammer Infos](https://globalgamejam.org/becoming-jammer)
 
 # Anmeldung
 
