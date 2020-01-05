@@ -6,7 +6,7 @@
 
 ## Was ist der Global Game Jam
 
-Der [Global Game Jam](https://globalgamejam.org) ist das weltweit größte parallel stattfindende GameJam-Event, das an verschiedenen Orten der Welt ausgetragen wird. Einen GameJam kann man sich als Hackathon vorstellen, der sich auf Spieleentwicklung fokussiert. An diesem Wochenende geht es darum in 48 Stunden alleine, oder ein Spiel zu entwickeln und mit der Global Game Jam Community zu teilen. Dabei sind alle kreative Fähigkeiten willkommen und man kann eine Menge lernen. 🤓
+Der [Global Game Jam](https://globalgamejam.org) ist das weltweit größte parallel stattfindende GameJam-Event, das an verschiedenen Orten der Welt ausgetragen wird. Einen GameJam kann man sich als Hackathon vorstellen, der sich auf Spieleentwicklung fokussiert. An diesem Wochenende geht es darum in 48 Stunden alleine, oder im Team ein Spiel zu entwickeln und mit der Global Game Jam Community zu teilen. Dabei sind alle kreative Fähigkeiten willkommen und man kann eine Menge lernen. 🤓
 
 Offizielle Infos unter: [Global Game Jam FAQ](https://globalgamejam.org/faq)
 
@@ -20,12 +20,12 @@ Seit 2014 treffen sich in Osnabrück ein paar enthusiastische Hobby-Entwickler [
 
 Dieses Jahr möchten wir den ersten Global Game Jam in Osnabrück veranstalten. Dazu fahren wir groß auf und werden die [E-Sports-Factory](https://esportfactory.de/) mieten, die uns einen optimal ausgestatteten Event-Bereich bietet.
 
-Aufgrund unserer Erfahrung werden wir unser Bestes geben das Mentoring und Hilfe bei Games-Entwicklung
+Aufgrund unserer Erfahrung werden wir unser Bestes geben das Event zu strukturieren und stehen gerne mit Mentoring und Hilfe bei Games-Entwicklung zur Seite.
 
 Wir danken für das Sponsoring der Third Level GmbH und unserem Partner nordmedia/APITs Lab.
 
 Eure Organisatoren,\
-*Erik, Fabian, Niels, Tilman*
+*Erik [Twitter](https://twitter.com/fastpath), Fabian, Niels, Tilman*
 
 ## Folgende Annehmlichkeiten stehen euch für das Wochenende zur Vefügung
 
@@ -50,7 +50,7 @@ Eure Organisatoren,\
   - GameDesign
   - Programmierung
 
-# Anmeldung (#anmeldungs-hinweise)
+# Anmeldung
 
 - Auf globalgamejam.org einen Account anlegen
 - Unserer GameJam-Site joinen: [Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020)
@@ -59,6 +59,7 @@ Eure Organisatoren,\
 - Bitte schreibt uns eben eine Mail an game.dev.osna@gmail.com wenn ihr in der Location übernachten wollt
 
 Um die Kosten für die Location und Getränke auszugleichen nehmen wir eine Teilnahmegebühr von 15€ für Studenten und 40€ für alle anderen.
+(#anmeldungs-hinweise)
 
 # Anfahrt und Location
 
@@ -84,7 +85,7 @@ Albert-Einstein-Str. 1\
 49076 Osnabrück / Germany\
 Geschäftsführer: Erik Wittkorn\
 Amtsgericht Osnabrück: HRB 211233\
-Sitz der Gesellschaft: Bohmte\
+Sitz der Gesellschaft: Bohmte
 
 Inhaltlich Verantwortlicher gemäß § 55 II RStV:\
 Erik Wittkorn
