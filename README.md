@@ -2,7 +2,7 @@
 
 ![Global Game Jam 2020](./img/ggj2020_logo.jpg "Global Game Jam 2020")
 
-**Anmeldung** auf: [Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020) - bitte [Anmeldungs-Hinweise](#anmeldungs-hinweise) beachten
+**Anmeldung** auf: [Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020) - bitte [Anmeldungs-Hinweise](#anmeldung) beachten
 
 ## Was ist der Global Game Jam
 
