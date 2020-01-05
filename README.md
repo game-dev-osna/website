@@ -2,23 +2,33 @@
 
 ![Global Game Jam 2020](./img/ggj2020_logo.jpg "Global Game Jam 2020")
 
-## Was ist der Global Game Jam?
+## Was ist der Global Game Jam
 
-Der Global Game Jam ist das weltweit größte parallel stattfindende GameJam-Event, das an verschiedenen Orten der Welt ausgetragen wird.
+Der Global Game Jam ist das weltweit größte parallel stattfindende GameJam-Event, das an verschiedenen Orten der Welt ausgetragen wird. Einen GameJam kann man sich als Hackathon vorstellen, der sich auf Spieleentwicklung fokussiert. An diesem Wochenende geht es darum in 48 Stunden alleine, oder ein Spiel zu entwickeln und mit der Global Game Jam Community zu teilen. Dabei sind alle kreative Fähigkeiten willkommen und man kann eine Menge lernen. 🤓
 
 Offizielle Infos unter: [Global Game Jam FAQ](https://globalgamejam.org/faq)
 
 ## Was wir euch bieten
 
-Um den Global Game Jam in Osnabrück zu veranstalten haben wir die E-Sports-Factory gemietet, die uns einen optimal ausgestatteten Event-Bereich bietet.
+Seit 2014 treffen sich in Osnabrück ein paar enthusiastische Hobby-Entwickler [Facebook Spieleentwickler Osnabrück](https://www.facebook.com/groups/gamedevos/) in einem unregelmäßigen Stammtisch-Format. Seitdem haben wir schon einige tolle GameJams [GameJam Projekte](https://gamedevos.tumblr.com/projects) veranstaltet und ein kleines Netzwerk ist entstanden.
 
-- Mentoring und Hilfe bei Games-Entwicklung
+![Wyst](./img/Wyst.jpg "Wyst - ein GameJam Spiel der Game Dev Os")
 
-### Folgende Annehmlichkeiten stehen euch zur Vefügung:
+Dieses Jahr möchten wir den ersten Global Game Jam in Osnabrück veranstalten. Dazu fahren wir groß auf und werden die E-Sports-Factory mieten, die uns einen optimal ausgestatteten Event-Bereich bietet.
+
+Aufgrund unserer Erfahrung werden wir unser Bestes geben das Mentoring und Hilfe bei Games-Entwicklung
+
+Wir danken für das Sponsoring der Third Level GmbH.
+
+Eure Organisatoren,
+Erik, Fabian, Niels, Tilman
+
+### Folgende Annehmlichkeiten stehen euch zur Vefügung
+
 - Gruppentische mit Strom und Internet
 - 4 Coding-Nischen, wo man sich zum konzentrierten Entwickeln zurückziehen kann
-- Große Video-Walls und Bildschirme
 - 10 vollausgestattete Windows-Gaming-PCs auf einer E-Sport-Bühne
+- Große Video-Walls und Präsentations-Bildschirme
 - Große Küche mit Kühlschrank, Mikrowelle, Backöfen
 - BBQ-Terrasse fürs winterliche Grillen
 - Soft-Drinks und Kaffe sind für alle inklusive
@@ -36,7 +46,7 @@ Um den Global Game Jam in Osnabrück zu veranstalten haben wir die E-Sports-Fact
   - GameDesign
   - Programmierung
 
-## So kannst du dich anmelden:
+## So kannst du dich anmelden
 
 - Auf globalgamejam.org einen Account anlegen
 - Unserer GameJam-Site joinen: [Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020)
