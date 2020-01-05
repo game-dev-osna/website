@@ -4,11 +4,27 @@
 
 **Anmeldung** auf: [Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020) - bitte [Anmeldungs-Hinweise](#anmeldung) beachten
 
+Nimm gerne
+
 ## Was ist der Global Game Jam
 
 Der [Global Game Jam](https://globalgamejam.org) ist das weltweit größte parallel stattfindende GameJam-Event, das an verschiedenen Orten der Welt ausgetragen wird. Einen GameJam kann man sich als Hackathon vorstellen, der sich auf Spieleentwicklung fokussiert. An diesem Wochenende geht es darum in 48 Stunden alleine, oder im Team ein Spiel zu entwickeln und mit der Global Game Jam Community zu teilen. Dabei sind alle kreative Fähigkeiten willkommen und man kann eine Menge lernen. 🤓
 
 Offizielle Infos unter: [Global Game Jam FAQ](https://globalgamejam.org/faq)
+
+## Grober Ablauf
+
+- Freitag, ab 16 Uhr - Check-In in der E-Sports Factory
+- Freitag, 17 Uhr - Willkommen und Keynote
+- Freitag, ab 18 Uhr - Kennenlernen und Team-Forming
+
+- Samstag vormittag - Einrichtung einer Projekt-Seite
+- Samstag nachmittag - Playtesting der anderen games
+
+- Sonntag vormittag - Polishing
+- Sonntag nachmittag - Hochladen der Projekte, Präsentation, Aufräumen
+
+Da wir den Ablaufplan aktuell noch entwickeln, guck ab und zu auf dieser Seite nach Updates, oder achte auf eine Mail von uns, wenn du schon registriert bist.
 
 ## Was wir euch bieten
 
@@ -53,13 +69,15 @@ Eure Organisatoren,<br />
 
 # Anmeldung
 
-- Auf globalgamejam.org einen Account anlegen
+- Auf [globalgamejam.org](https://globalgamejam.org) einen Account anlegen
 - Unserer GameJam-Site joinen: [Global Game Jam Osnabrück](https://globalgamejam.org/2020/jam-sites/global-game-jam-osnabr%C3%BCck-2020)
 - Du bekommst von uns eine Bestätigungs-Email, wenn deine Registrierung akzeptiert wurde
 - Aufgrund der begrenzten Teilnehmerzahl ist eine bestätigte Anmeldung notwendig
 - Bitte schreibt uns eben eine Mail an [game.dev.osna@gmail.com](mailto:game.dev.osna@gmail.com) wenn ihr in der Location übernachten wollt
 
 Um die Kosten für die Location und Getränke auszugleichen nehmen wir eine Teilnahmegebühr von 15€ für Studenten und 40€ für alle anderen.
+
+Wir freuen uns auf dich!! 🤗
 
 # Anfahrt und Location
 
