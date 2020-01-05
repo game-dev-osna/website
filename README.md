@@ -8,7 +8,7 @@ Nimm gerne auch an unserer Facebook-Veranstaltung teil.
 
 ## Was ist der Global Game Jam
 
-Der [Global Game Jam](https://globalgamejam.org) ist das weltweit größte parallel stattfindende GameJam-Event, das an verschiedenen Orten der Welt ausgetragen wird. Einen GameJam kann man sich als Hackathon vorstellen, der sich auf Spieleentwicklung fokussiert. An diesem Wochenende geht es darum in 48 Stunden alleine, oder im Team ein Spiel zu entwickeln und mit der Global Game Jam Community zu teilen. Dabei sind alle kreative Fähigkeiten willkommen und man kann eine Menge lernen. 🤓
+Der [Global Game Jam](https://globalgamejam.org) ist das weltweit größte parallel stattfindende GameJam-Event, das an verschiedenen Orten der Welt ausgetragen wird. Einen GameJam kann man sich als Hackathon vorstellen, der sich auf Spieleentwicklung fokussiert. An diesem Wochenende geht es darum in 48 Stunden alleine, oder im Team ein Spiel zu entwickeln und mit der Global Game Jam Community zu teilen. Dabei sind alle kreativen Fähigkeiten willkommen und man kann eine Menge lernen. 🤓
 
 Offizielle Infos unter: [Global Game Jam FAQ](https://globalgamejam.org/faq)
 
@@ -34,7 +34,7 @@ Seit 2014 treffen sich in Osnabrück ein paar enthusiastische Hobby-Entwickler [
 
 ![Wyst](./img/Wyst.jpg "Wyst - ein GameJam Spiel der Game Dev Os")
 
-Dieses Jahr möchten wir den ersten Global Game Jam in Osnabrück veranstalten. Dazu fahren wir groß auf und werden die [E-Sports-Factory](https://esportfactory.de/) mieten, die uns einen optimal ausgestatteten Event-Bereich bietet.
+Dieses Jahr möchten wir den ersten Global Game Jam in Osnabrück veranstalten. Dazu fahren wir groß auf und haben die [E-Sports-Factory](https://esportfactory.de/) gemietet, die uns einen optimal ausgestatteten Event-Bereich bietet.
 
 Aufgrund unserer Erfahrung werden wir unser Bestes geben das Event zu strukturieren und stehen gerne mit Mentoring und Hilfe bei Games-Entwicklung zur Seite.
 
