@@ -10,7 +10,9 @@ Offizielle Infos unter: [Global Game Jam FAQ](https://globalgamejam.org/faq)
 
 ## Was wir euch bieten
 
-Seit 2014 treffen sich in Osnabrück ein paar enthusiastische Hobby-Entwickler [Facebook Spieleentwickler Osnabrück](https://www.facebook.com/groups/gamedevos/) in einem unregelmäßigen Stammtisch-Format. Seitdem haben wir schon einige tolle GameJams [GameJam Projekte](https://gamedevos.tumblr.com/projects) veranstaltet und ein kleines Netzwerk ist entstanden.
+![Game Devs OS](./img/Game_Dev_OS_Logo_small.png "Game Devs OS")
+
+Seit 2014 treffen sich in Osnabrück ein paar enthusiastische Hobby-Entwickler [Facebook Gruppe Spieleentwickler Osnabrück](https://www.facebook.com/groups/gamedevos/) in einem unregelmäßigen Stammtisch-Format. Seitdem haben wir schon einige tolle GameJams [GameJam Projekte](https://gamedevos.tumblr.com/projects) veranstaltet und ein kleines Netzwerk ist entstanden.
 
 ![Wyst](./img/Wyst.jpg "Wyst - ein GameJam Spiel der Game Dev Os")
 
@@ -18,10 +20,10 @@ Dieses Jahr möchten wir den ersten Global Game Jam in Osnabrück veranstalten. 
 
 Aufgrund unserer Erfahrung werden wir unser Bestes geben das Mentoring und Hilfe bei Games-Entwicklung
 
-Wir danken für das Sponsoring der Third Level GmbH.
+Wir danken für das Sponsoring der Third Level GmbH und unserem Partner nordmedia/APITs Lab.
 
 Eure Organisatoren,
-Erik, Fabian, Niels, Tilman
+*Erik, Fabian, Niels, Tilman*
 
 ### Folgende Annehmlichkeiten stehen euch zur Vefügung
 
