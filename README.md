@@ -60,7 +60,7 @@ Eure Organisatoren,<br />
 ## Was ihr mitbringt
 
 - Begeisterung für die Spieleentwicklung
-- Eigener Laptop (am besten mit vorbereiteter Entwicklungsumgebung)
+- Eigener Laptop/Rechner (am besten mit vorbereiteter Entwicklungsumgebung)
 - Alternativ können die 10 Gaming-PCs genutzt werden
 - Alle Fähigkeiten sind willkommen
   - 2D/3D Grafik
